@@ -1,0 +1,14 @@
+{
+  "name": "livre-de-quetes",
+  "version": "1.0.0",
+  "description": "exercices du livre de quêtes",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Léo SALLARD",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
