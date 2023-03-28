@@ -1,6 +1,6 @@
-# EXERCICES JS ASSO SOUTIEN
+# Cepasimal Javascript
 
-## LIVRE DE QUÊTES
+## Sujet - Livre de quêtes
 
 Pour installer les dépendances nécessaires au fonctionnement du projet : `npm install`
 
