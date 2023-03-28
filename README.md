@@ -1,3 +1,3 @@
-# CEPASIMAL JAVASCRIPT
+# Cepasimal Javascript
 
-## SUJETS
+## Sujets
