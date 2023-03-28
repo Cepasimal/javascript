@@ -1,7 +1,8 @@
-# Cepasimal Javascript
+# Cepasimal - Javascript
+## Livre de quêtes
+### Notions
 
-## Sujet - Livre de quêtes
-
+### Sujet
 Pour installer les dépendances nécessaires au fonctionnement du projet : `npm install`
 
 Le fichier `questbook.js` contient le code que vous devez compléter.
@@ -14,3 +15,5 @@ Pour exécuter les tests : `npm run test`
 
 Vous ne devez pas modifier les tests.
 L'exercice est terminé lorsque tous les tests sont valides (verts).
+
+### Remarques
