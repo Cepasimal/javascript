@@ -1,3 +1,3 @@
 # Cepasimal Javascript
-
-## Correction - Livre de quêtes
+## Livre de quêtes
+### Correction
