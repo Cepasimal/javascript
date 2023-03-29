@@ -25,12 +25,6 @@ let invoices = [
 ];
 
 /**
- * Dans cet exercice, pour découvrir les fonctionnalités natives
- * du Javascript, il vous est interdit d'utiliser la boucle for
- * ainsi que tous ses dérivés : for in, for of, forEach.
- */
-
-/**
  * Permet de simuler la crise financière actuelle
  * en multipliant le prix des factures.
  * 
