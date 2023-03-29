@@ -6,10 +6,12 @@
 ### Sujet
 Le but de cet exercice est de manipuler des factures pour en extraire des informations pour votre entreprise.
 
-⚠
+⚠⚠⚠
+
 Dans cet exercice, pour découvrir les fonctionnalités natives du Javascript, il vous est interdit d'utiliser la boucle for
 ainsi que tous ses dérivés : for in, for of, forEach.
-⚠
+
+⚠⚠⚠
 
 ### Remarques
 Pour installer les dépendances nécessaires au fonctionnement du projet : `npm install`
