@@ -1,8 +1,12 @@
 # Cepasimal - Javascript
 ## Livre de quêtes
 ### Notions
++ Manipulation basique de tableaux 
 
 ### Sujet
+Le but de cet exercice est de manipuler le contenu d'un livre de quêtes pour suivre la progression du joueur de votre jeu-vidéo préféré !
+
+### Remarques
 Pour installer les dépendances nécessaires au fonctionnement du projet : `npm install`
 
 Le fichier `questbook.js` contient le code que vous devez compléter.
@@ -15,5 +19,3 @@ Pour exécuter les tests : `npm run test`
 
 Vous ne devez pas modifier les tests.
 L'exercice est terminé lorsque tous les tests sont valides (verts).
-
-### Remarques
