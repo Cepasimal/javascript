@@ -1,0 +1,14 @@
+{
+  "name": "les-factures",
+  "version": "1.0.0",
+  "description": "exercices des factures",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Radalls",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
