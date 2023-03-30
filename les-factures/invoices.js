@@ -32,7 +32,7 @@ let invoices = [
 
 /**
  * Permet de simuler la crise financière actuelle
- * en multipliant le prix des factures.
+ * en multipliant le prix de chaque facture par un facteur.
  * 
  * @param invoices les factures
  * @param factor le multiplicateur de prix
